@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{
+    font-family: Lato;
+   
+}
+.container{
+    margin: 0 auto;
+    max-width: 810px;
+}
+.first{
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 59px;
+    margin-bottom: 50px;  
+}
+
+img{
+    margin-bottom: 30px;
+    border-radius: 4px; 
+    margin-bottom: 30px; 
+}
+.inform{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 150%;
+}
+.text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+.text_2{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.lesson{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 30px;
+    line-height: 150%;
+    padding-left: 60px;
+
+}
+.block{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+ul{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+}
+.fin{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 100px;
+}
+.circle{
+    margin: 15px;
+    padding: 15px;
+    border-radius: 30%;
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    background-color: rosybrown;
+}
+.tex{
+    margin: 20px;
+    padding: 15px;
+    border: 10px solid #000;
+    background-color: slategray;
+}
+.read{
+    padding: 20px;
+    max-height: 120px;
+    border: 5px;
+    overflow: scroll;
+    background-color: darkgray;
+}
+.read_2{
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 20px;
+    padding: 15px;
+    background-color: aqua;
+    box-shadow: 7px 3px 5px 2px #000;
+}
+.button{
+    margin: 20px;
+    display: inline-block;
+    padding: 20px;
+    background-color: burlywood;
+    color: white;
+    border-radius: 25px;
+    box-shadow: 0 15px 0 #000;
+}
+.numeros{
+    font-size: 20px;
+ }
+ .numero{ 
+    font-size: 30px; 
+    width: 70px;
+    height: 70px;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    background-color: orange;
+    border-radius: 60px;
+}
